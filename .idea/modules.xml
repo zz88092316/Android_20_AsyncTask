@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_20_AsyncTask.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_20_AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_20_AsyncTask.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_20_AsyncTask.app.iml" />
+    </modules>
+  </component>
+</project>
